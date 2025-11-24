@@ -2,4 +2,4 @@
 
 I'm Rubens and I like programing in rust.
 
-![Ferris the Crab](https://publico.rbran.com/img/rust.svg)
+![Ferris the Crab](https://publico.rbran.com/img/rust2.svg)
